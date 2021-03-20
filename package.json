@@ -1,0 +1,14 @@
+{
+  "name": "@xtsusaku/xtsk-rss-reader",
+  "version": "1.0.0",
+  "description": "RSS Reader for xTSK-based Webstire",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "xTsuSaKu <owner@xtsusaku.net> (https://xtsusaku.net)",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  }
+}
